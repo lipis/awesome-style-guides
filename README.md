@@ -14,6 +14,7 @@
 - [Java](http://google.github.io/styleguide/javaguide.html) - Google
 - [JavaScript](https://github.com/airbnb/javascript) - Airbnb
 - [JavaScript](http://google.github.io/styleguide/javascriptguide.xml) - Google
+- [JSON](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml) - Google
 - [Objective-C](http://google.github.io/styleguide/objcguide.xml) - Google
 - [Objective-C](https://github.com/raywenderlich/objective-c-style-guide) - Ray Wenderlich
 - [Python](https://www.python.org/dev/peps/pep-0008/) - PEP 0008
