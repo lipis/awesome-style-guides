@@ -7,6 +7,7 @@
 ## Style Guides
 
 - [C++](http://google.github.io/styleguide/cppguide.html) - Google
+- [C#](https://msdn.microsoft.com/en-us/library/ff926074.aspx) - Microsoft
 - [CoffeeScript](https://github.com/polarmobile/coffeescript-style-guide) - Polar
 - [Haskel](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md) - Johan Tibell
 - [HTML/CSS](http://google.github.io/styleguide/htmlcssguide.xml) - Google
