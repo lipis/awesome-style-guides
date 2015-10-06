@@ -28,10 +28,15 @@
 
 - [EditorConfig](http://editorconfig.org/)
 
+## Something to Read
+
+- [Death to the Space Infidels!](http://blog.codinghorror.com/death-to-the-space-infidels/) - Coding Horror
+- [Why Coding Style Matters](http://www.smashingmagazine.com/2012/10/why-coding-style-matters/) - Smashing Magazine
+- [Programming style](https://en.wikipedia.org/wiki/Programming_style) - Wikipedia
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
 
 ## License
 
