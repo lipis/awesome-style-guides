@@ -6,13 +6,13 @@
 
 ## Style Guides
 
-- [AngularJS](https://github.com/johnpapa/angular-styleguide) - John Papa (@johnpapa)
+- [AngularJS](https://github.com/johnpapa/angular-styleguide) - John Papa
 - [C++](http://google.github.io/styleguide/cppguide.html) - Google
 - [C#](https://msdn.microsoft.com/en-us/library/ff926074.aspx) - Microsoft
 - [CoffeeScript](https://github.com/polarmobile/coffeescript-style-guide) - Polar
-- [Haskel](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md) - Johan Tibell (@tibbe)
+- [Haskel](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md) - Johan Tibell
 - [HTML/CSS](http://google.github.io/styleguide/htmlcssguide.xml) - Google
-- [HTML/CSS](http://codeguide.co/) - Mark Otto (@mdo)
+- [HTML/CSS](http://codeguide.co/) - Mark Otto
 - [Java](http://google.github.io/styleguide/javaguide.html) - Google
 - [JavaScript](https://github.com/airbnb/javascript) - Airbnb
 - [JavaScript](http://google.github.io/styleguide/javascriptguide.xml) - Google
