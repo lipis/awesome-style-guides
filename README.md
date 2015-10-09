@@ -22,6 +22,7 @@
 - [Python](https://www.python.org/dev/peps/pep-0008/) - PEP 0008
 - [Python](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html) - Google
 - [Ruby](https://github.com/styleguide/ruby) - GitHub
+- [Swift](https://github.com/github/swift-style-guide) - GitHub
 - [Swift](https://github.com/raywenderlich/swift-style-guide) - Ray Wenderlich
 
 ## Resources
