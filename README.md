@@ -21,7 +21,8 @@
 - [Objective-C](https://github.com/raywenderlich/objective-c-style-guide) - Ray Wenderlich
 - [Python](https://www.python.org/dev/peps/pep-0008/) - PEP 0008
 - [Python](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html) - Google
-- [Ruby](https://github.com/styleguide/ruby) - GitHub
+- [Ruby](https://github.com/bbatsov/ruby-style-guide) - Bozhidar Batsov
+- [Ruby on Rails](https://github.com/bbatsov/rails-style-guide) - Bozhidar Batsov
 - [Swift](https://github.com/github/swift-style-guide) - GitHub
 - [Swift](https://github.com/raywenderlich/swift-style-guide) - Ray Wenderlich
 
