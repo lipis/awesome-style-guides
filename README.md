@@ -9,6 +9,12 @@
 - [AngularJS](https://github.com/johnpapa/angular-styleguide) - John Papa
 - [C++](http://google.github.io/styleguide/cppguide.html) - Google
 - [C#](https://msdn.microsoft.com/en-us/library/ff926074.aspx) - Microsoft
+- [CSS](http://cssguidelin.es/) - Harry Roberts
+- [CSS](https://smacss.com/book/) - Jonathan Snook
+- [CSS](https://github.com/necolas/idiomatic-css) - Nicolas Gallagher
+- [CSS](http://www.smashingmagazine.com/2008/05/improving-code-readability-with-css-styleguides/) - Smashing Magazine
+- [CSS](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) - ThinkUp
+- [CSS](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/) - WordPress
 - [CoffeeScript](https://github.com/polarmobile/coffeescript-style-guide) - Polar
 - [Haskel](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md) - Johan Tibell
 - [HTML/CSS](http://google.github.io/styleguide/htmlcssguide.xml) - Google
