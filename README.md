@@ -9,6 +9,7 @@
 - [AngularJS](https://github.com/johnpapa/angular-styleguide) - John Papa
 - [C++](http://google.github.io/styleguide/cppguide.html) - Google
 - [C#](https://msdn.microsoft.com/en-us/library/ff926074.aspx) - Microsoft
+- [CSS](https://18f.gsa.gov/2016/01/11/introducing-the-css-coding-style-guide) - 18F
 - [CoffeeScript](https://github.com/polarmobile/coffeescript-style-guide) - Polar
 - [Haskel](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md) - Johan Tibell
 - [HTML/CSS](http://google.github.io/styleguide/htmlcssguide.xml) - Google
