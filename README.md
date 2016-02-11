@@ -15,6 +15,8 @@
 - [HTML/CSS](http://google.github.io/styleguide/htmlcssguide.xml) - Google
 - [HTML/CSS](http://codeguide.co/) - Mark Otto
 - [Java](http://google.github.io/styleguide/javaguide.html) - Google
+- [Java](http://www.liferay.com/web/guest/community/wiki/-/wiki/Main/Liferay+Development+Style) - Liferay
+- [Java](http://www.oracle.com/technetwork/articles/javase/codeconvtoc-136057.html) - Oracle
 - [JavaScript](https://github.com/airbnb/javascript) - Airbnb
 - [JavaScript](http://google.github.io/styleguide/javascriptguide.xml) - Google
 - [JSON](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml) - Google
